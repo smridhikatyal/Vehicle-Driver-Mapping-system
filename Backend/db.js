@@ -6,6 +6,7 @@ mongoose.connect(mangoURL , {
 
    // useUnifiedTopology : true,
 })
+//mongoose has the default connection object representing the mongoDB connection
 const db = mongoose.connection; 
 
 
