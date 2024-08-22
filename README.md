@@ -7,6 +7,8 @@ Add, Remove Drivers: Manage driver information including name and license number
 Add, Remove Vehicles: Manage vehicle information including model and license plate.
 Assign Drivers to Vehicles: Assign drivers to specific vehicles and track assignments.
 
+Video Link ->
+https://drive.google.com/file/d/1zGCZpw1QOaZkFrquGxqc-y1AhI2Pd-gk/view?usp=sharing
 
 ![Screenshot 2024-08-22 230911](https://github.com/user-attachments/assets/403fa4b5-2fc6-4d81-8314-9a140f817502)
 Driver page -> showing list of drivers
